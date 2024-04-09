@@ -4,7 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+@media (max-width: 600px) {
+    /* Styles for small screens */
+}
+@media (max-width: 1500px) {
+    /* Styles for medium screens */
+}
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
